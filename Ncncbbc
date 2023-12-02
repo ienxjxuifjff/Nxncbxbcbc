@@ -20,23 +20,23 @@ print("hehehe")
 
 local old = game.Players.LocalPlayer.leaderstats.Rank
 
-if old.Value == "MAX-7" then
+if old.Value == "MAX-11" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value =="MAX-8" then
+elseif old.Value =="MAX-12" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value == "MAX-9" then 
+elseif old.Value == "MAX-13" then 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value == "MAX-10" then
+elseif old.Value == "MAX-14" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value == "MAX-7" then
+elseif old.Value == "MAX-15" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
