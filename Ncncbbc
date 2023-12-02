@@ -42,16 +42,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcif
 
 else
 
-
-
-game.Players.LocalPlayer:Kick("You have been banned for using In-Game(Cheating, Exploiting etc.). If you think this is a mistake, please head over to the support channel.")
-
-wait (2.8)
-
 music:Play()
-
-wait(1)
-
 game.Players.LocalPlayer:Kick("Şaka şaka, 5 rank yeter mk git satın al 💀")
 
 end
