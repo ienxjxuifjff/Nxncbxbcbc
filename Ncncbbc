@@ -43,7 +43,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcif
 else
 
 music:Play()
-game.Players.LocalPlayer:Kick(" 3 rank yeter mk git satın al 💀")
+game.Players.LocalPlayer:Kick([[ 3 rank yeter mk git satın al 💀 
+          -Flexsz]])
 
 end
 
