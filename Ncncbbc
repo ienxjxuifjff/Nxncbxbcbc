@@ -32,18 +32,18 @@ elseif old.Value == "MAX-5" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value == "MAX-6" then
+elseif old.Value == "MAX-88" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
-elseif old.Value == "MAX-7" then
+elseif old.Value == "MAX-99" then
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ienxjxuifjff/Jsjxjcifjfbbfdbfhdgg/main/Gdbhg"))()
 
 else
 
 music:Play()
-game.Players.LocalPlayer:Kick(" 5 rank yeter mk git satın al 💀")
+game.Players.LocalPlayer:Kick(" 3 rank yeter mk git satın al 💀")
 
 end
 
